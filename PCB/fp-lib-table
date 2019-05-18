@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name backplates)(type KiCad)(uri ${KIPRJMOD}/backplates.pretty)(options "")(descr ""))
+  (lib (name decos)(type KiCad)(uri ${KIPRJMOD}/decos.pretty)(options "")(descr ""))
+)
