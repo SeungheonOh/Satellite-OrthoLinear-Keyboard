@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:vUSB_planck_keyboard-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -467,11 +466,11 @@ Connection ~ 1850 4150
 Text Label 5550 4800 0    50   ~ 0
 RESET
 Text Label 5550 4700 0    50   ~ 0
-COL1
+COL4
 Text Label 5550 4600 0    50   ~ 0
 ROW3
 Text Label 5550 4500 0    50   ~ 0
-COL0
+COL5
 Wire Wire Line
 	2450 4850 2600 4850
 Wire Wire Line
