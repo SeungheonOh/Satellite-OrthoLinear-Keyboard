@@ -325,7 +325,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical (layer F.Cu) (tedit 5CE33F8A) (tstamp 5CE37EE1)
-    (at 114.47 34.17)
+    (at 114.47 31.17)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (fp_text reference REF** (at 1.8 -3.42) (layer F.Fab)
@@ -355,7 +355,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical (layer F.Cu) (tedit 5CE33FD7) (tstamp 5CE37FDF)
-    (at 134.47 34.17)
+    (at 134.47 31.17)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (fp_text reference REF** (at 0 -2.33) (layer F.Fab)
