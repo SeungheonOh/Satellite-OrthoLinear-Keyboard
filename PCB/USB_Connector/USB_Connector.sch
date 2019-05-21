@@ -92,4 +92,27 @@ Wire Wire Line
 	1800 3650 3150 3650
 Wire Wire Line
 	3150 3650 3150 3700
+$Comp
+L Device:R R1
+U 1 1 5CE3280B
+P 2450 950
+F 0 "R1" H 2520 996 50  0000 L CNN
+F 1 "5.1k" H 2520 905 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal" V 2380 950 50  0001 C CNN
+F 3 "~" H 2450 950 50  0001 C CNN
+	1    2450 950 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 1400 2450 1400
+Wire Wire Line
+	2450 1400 2450 1100
+Wire Wire Line
+	2450 800  2450 650 
+Wire Wire Line
+	2450 650  2700 650 
+Text Label 2700 650  0    50   ~ 0
+GND
+Text Label 1700 2700 0    50   ~ 0
+GND
 $EndSCHEMATC
