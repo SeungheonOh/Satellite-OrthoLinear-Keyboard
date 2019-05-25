@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name backplates)(type KiCad)(uri E:/Projects/Github/Satellite-OrthoLinear-Keyboard/PCB/backplates.pretty)(options "")(descr ""))
+)
